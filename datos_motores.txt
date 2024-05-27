@@ -1,0 +1,236 @@
+
+- - - - - - - - - - - - - 
+		Index: 0
+WS:     -0.000 rad/s
+power:     0.000 W
+torque: 0.000 Nm
+- - - - - - - - - - - - - 
+		Index: 1
+WS:     59.244 rad/s
+power:     757.111 W
+torque: 12.802 Nm
+- - - - - - - - - - - - - 
+		Index: 2
+WS:     57.867 rad/s
+power:     823.951 W
+torque: 14.252 Nm
+- - - - - - - - - - - - - 
+		Index: 3
+WS:     44.089 rad/s
+power:     1044.316 W
+torque: 23.733 Nm
+- - - - - - - - - - - - - 
+		Index: 4
+WS:     62.000 rad/s
+power:     597.908 W
+torque: 9.622 Nm
+- - - - - - - - - - - - - 
+		Index: 5
+WS:     55.111 rad/s
+power:     930.032 W
+torque: 16.928 Nm
+- - - - - - - - - - - - - 
+		Index: 6
+WS:     37.200 rad/s
+power:     932.442 W
+torque: 25.146 Nm
+- - - - - - - - - - - - - 
+		Index: 7
+WS:     38.578 rad/s
+power:     967.416 W
+torque: 25.150 Nm
+- - - - - - - - - - - - - 
+		Index: 8
+WS:     46.844 rad/s
+power:     1053.013 W
+torque: 22.404 Nm
+- - - - - - - - - - - - - 
+		Index: 9
+WS:     8.267 rad/s
+power:     150.222 W
+torque: 18.181 Nm
+- - - - - - - - - - - - - 
+		Index: 10
+WS:     56.489 rad/s
+power:     882.312 W
+torque: 15.606 Nm
+- - - - - - - - - - - - - 
+		Index: 11
+WS:     13.778 rad/s
+power:     281.342 W
+torque: 20.474 Nm
+- - - - - - - - - - - - - 
+		Index: 12
+WS:     17.911 rad/s
+power:     392.354 W
+torque: 21.886 Nm
+- - - - - - - - - - - - - 
+		Index: 13
+WS:     31.689 rad/s
+power:     795.519 W
+torque: 25.132 Nm
+- - - - - - - - - - - - - 
+		Index: 14
+WS:     23.422 rad/s
+power:     554.674 W
+torque: 23.751 Nm
+- - - - - - - - - - - - - 
+		Index: 15
+WS:     41.333 rad/s
+power:     1007.828 W
+torque: 24.403 Nm
+- - - - - - - - - - - - - 
+		Index: 16
+WS:     49.600 rad/s
+power:     1038.655 W
+torque: 20.933 Nm
+- - - - - - - - - - - - - 
+		Index: 17
+WS:     42.711 rad/s
+power:     1025.670 W
+torque: 24.072 Nm
+- - - - - - - - - - - - - 
+		Index: 18
+WS:     6.889 rad/s
+power:     120.414 W
+torque: 17.423 Nm
+- - - - - - - - - - - - - 
+		Index: 19
+WS:     50.978 rad/s
+power:     1029.181 W
+torque: 20.187 Nm
+- - - - - - - - - - - - - 
+		Index: 20
+WS:     20.667 rad/s
+power:     470.776 W
+torque: 22.820 Nm
+- - - - - - - - - - - - - 
+		Index: 21
+WS:     28.933 rad/s
+power:     718.818 W
+torque: 24.772 Nm
+- - - - - - - - - - - - - 
+		Index: 22
+WS:     30.311 rad/s
+power:     761.422 W
+torque: 25.128 Nm
+- - - - - - - - - - - - - 
+		Index: 23
+WS:     2.756 rad/s
+power:     43.555 W
+torque: 15.832 Nm
+- - - - - - - - - - - - - 
+		Index: 24
+WS:     34.444 rad/s
+power:     873.905 W
+torque: 25.311 Nm
+- - - - - - - - - - - - - 
+		Index: 25
+WS:     1.378 rad/s
+power:     20.868 W
+torque: 15.126 Nm
+- - - - - - - - - - - - - 
+		Index: 26
+WS:     45.467 rad/s
+power:     1052.250 W
+torque: 23.084 Nm
+- - - - - - - - - - - - - 
+		Index: 27
+WS:     24.800 rad/s
+power:     593.107 W
+torque: 24.003 Nm
+- - - - - - - - - - - - - 
+		Index: 28
+WS:     15.156 rad/s
+power:     317.246 W
+torque: 20.917 Nm
+- - - - - - - - - - - - - 
+		Index: 29
+WS:     11.022 rad/s
+power:     212.322 W
+torque: 19.269 Nm
+- - - - - - - - - - - - - 
+		Index: 30
+WS:     39.956 rad/s
+power:     989.865 W
+torque: 24.868 Nm
+- - - - - - - - - - - - - 
+		Index: 31
+WS:     27.556 rad/s
+power:     676.554 W
+torque: 24.493 Nm
+- - - - - - - - - - - - - 
+		Index: 32
+WS:     5.511 rad/s
+power:     93.843 W
+torque: 17.000 Nm
+- - - - - - - - - - - - - 
+		Index: 33
+WS:     48.222 rad/s
+power:     1048.704 W
+torque: 21.695 Nm
+- - - - - - - - - - - - - 
+		Index: 34
+WS:     26.178 rad/s
+power:     638.291 W
+torque: 24.468 Nm
+- - - - - - - - - - - - - 
+		Index: 35
+WS:     9.644 rad/s
+power:     179.435 W
+torque: 18.621 Nm
+- - - - - - - - - - - - - 
+		Index: 36
+WS:     35.822 rad/s
+power:     901.924 W
+torque: 25.105 Nm
+- - - - - - - - - - - - - 
+		Index: 37
+WS:     16.533 rad/s
+power:     354.305 W
+torque: 21.518 Nm
+- - - - - - - - - - - - - 
+		Index: 38
+WS:     19.289 rad/s
+power:     429.985 W
+torque: 22.374 Nm
+- - - - - - - - - - - - - 
+		Index: 39
+WS:     4.133 rad/s
+power:     67.813 W
+torque: 16.401 Nm
+- - - - - - - - - - - - - 
+		Index: 40
+WS:     0.000 rad/s
+power:     0.000 W
+torque: 14.684 Nm
+- - - - - - - - - - - - - 
+		Index: 41
+WS:     33.067 rad/s
+power:     830.873 W
+torque: 25.019 Nm
+- - - - - - - - - - - - - 
+		Index: 42
+WS:     12.400 rad/s
+power:     245.996 W
+torque: 19.751 Nm
+- - - - - - - - - - - - - 
+		Index: 43
+WS:     60.622 rad/s
+power:     686.134 W
+torque: 11.361 Nm
+- - - - - - - - - - - - - 
+		Index: 44
+WS:     52.356 rad/s
+power:     1002.844 W
+torque: 19.234 Nm
+- - - - - - - - - - - - - 
+		Index: 45
+WS:     22.044 rad/s
+power:     510.049 W
+torque: 23.111 Nm
+- - - - - - - - - - - - - 
+		Index: 2172874544
+WS:     53.733 rad/s
+power:     973.382 W
+torque: 18.164 Nm

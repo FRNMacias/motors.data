@@ -34,6 +34,7 @@ int main(){
         type_data(vec,j,type,f);
         i=ftell(f);
     }
+    shell_index(vec,cant);
     for(i=0; i<cant; i++){
         printf("\n----------------");
         printf("\nIndex: %u",vec[i].index);
@@ -46,9 +47,20 @@ int main(){
         printf("\nNo es posible abrir el archivo para texto");
     }
     data_txt(c,vec,cant);
-    
-
     fclose(c);
     fclose(f);
+    int Mw = may_power(vec,cant);
+    printf("\n\n--Potencia maxima--\n");
+    printf("Index: %u",vec[Mw].index);
+    printf("\nPotencia: %.3f Watts",vec[Mw].power);
+    double RPM = (vec[Mw].vel / (2* M_PI));
+    printf("\n %.3f RPM",RPM);
+    porc_error(vec,cant);
+    printf("\n\n-- ERRORES --\n");
+    for(i=0;i<cant;i++){
+        printf("\n\nIndex: %u",vec[i].index);
+        printf("\nPotencia mecanica: %0.3f",vec[i].pm);
+        printf("\nError:  %.3f %",vec[i].error); 
+    }
     return 0;
 }

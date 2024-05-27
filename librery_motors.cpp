@@ -93,6 +93,13 @@ void type_data(struct motors *v, int pos, uint32_t t, FILE *f){
         }
     }
 }
+/**
+ * @brief Escritura de archivo txt
+ * 
+ * @param c manipulador de archivo de texto
+ * @param v direccion de memoria del vector
+ * @param cant tamaño del vector
+ */
 void data_txt(FILE *c, struct motors *v, int cant){
     for( int i=0 ; i<cant ; i++ ){
         fprintf(c,"\n- - - - - - - - - - - - - ");
@@ -100,5 +107,52 @@ void data_txt(FILE *c, struct motors *v, int cant){
         fprintf(c,"\nWS:     %.3f rad/s",v[i].vel);
         fprintf(c,"\npower:     %.3f W",v[i].power);
         fprintf(c,"\ntorque: %.3f Nm",v[i].torque);
+    }
+}
+void shell_index(struct motors *vec, int cant){
+    uint32_t aux;
+    int y,b;
+    int x = cant/2;
+    do{
+        do{
+            b=0;
+            for(int i=x; i<cant; i++){
+                if(vec[i].index<vec[i-x].index){
+                    aux = vec[i].index;
+                    vec[i].index = vec[i-x].index;
+                    vec[i-x].index = aux;
+                    b=1;
+                }
+            }
+        }while(b==1);
+        x = x/2;
+    }while(x>0);
+}
+int may_power(struct motors *v, int tam){
+    float may;
+    int pos;
+    for(int i=0; i<tam; i++){
+        if(i==0){
+            may = v[i].power;
+            pos=i;
+        }
+        else{
+            if(v[i].power>may){
+                may=v[i].power;
+                pos=i;
+            }
+        }
+    }
+    return pos;
+}
+void porc_error(struct motors *v, int tam){
+    float aux;
+    for(int i=0; i<tam; i++){
+        v[i].pm = (v[i].torque * v[i].vel);
+        aux = (v[i].pm - v[i].power);
+        if (aux<0){
+            aux=aux*(-1);
+        }
+        v[i].error = (aux/v[i].power)*100;
     }
 }
