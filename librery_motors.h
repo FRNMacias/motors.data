@@ -13,3 +13,4 @@ void encab(FILE *f);
 int busq(uint32_t h,struct motors *v,int c);
 int pos(uint32_t h,struct motors *v,int c);
 void type_data(struct motors *v, int pos, uint32_t t,FILE *f);
+void data_txt(FILE *c, struct motors *v, int cant);

@@ -23,7 +23,7 @@ int main(){
         aux = header << 2;
         ind_aux = aux >> 2;
         x = busq(ind_aux,vec,cant);
-        if(x==10){                       //ya esta el motor
+        if(x==1){                       //ya esta el motor
             j = pos(ind_aux,vec,cant);   //nos devuelve la posición en donde esta el motor.
         }else{                           // no existe el motor
             j = cant;
@@ -41,6 +41,14 @@ int main(){
         printf("\nWs: %.3f rad/s",vec[i].vel);
         printf("\nPower: %.3f Watts",vec[i].power);
     }
+    FILE *c = fopen("datos_motores.txt","wb");
+    if(c == NULL){
+        printf("\nNo es posible abrir el archivo para texto");
+    }
+    data_txt(c,vec,cant);
+    
+
+    fclose(c);
     fclose(f);
     return 0;
 }
