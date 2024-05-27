@@ -1,0 +1,552 @@
+-------------
+type:   power
+index:  43
+power:  757.111 W
+-------------
+type:   ws
+index:  43
+ws:     59.244 rad/s
+-------------
+type:   ws
+index:  42
+ws:     57.867 rad/s
+-------------
+type:   torque
+index:  32
+torque: 23.733 Nm
+-------------
+type:   ws
+index:  32
+ws:     44.089 rad/s
+-------------
+type:   power
+index:  45
+power:  597.908 W
+-------------
+type:   torque
+index:  40
+torque: 16.928 Nm
+-------------
+type:   power
+index:  27
+power:  932.442 W
+-------------
+type:   torque
+index:  28
+torque: 25.150 Nm
+-------------
+type:   ws
+index:  34
+ws:     46.844 rad/s
+-------------
+type:   ws
+index:  6
+ws:     8.267 rad/s
+-------------
+type:   power
+index:  41
+power:  882.312 W
+-------------
+type:   torque
+index:  10
+torque: 20.474 Nm
+-------------
+type:   power
+index:  13
+power:  392.354 W
+-------------
+type:   torque
+index:  23
+torque: 25.132 Nm
+-------------
+type:   ws
+index:  17
+ws:     23.422 rad/s
+-------------
+type:   power
+index:  30
+power:  1007.828 W
+-------------
+type:   ws
+index:  36
+ws:     49.600 rad/s
+-------------
+type:   power
+index:  31
+power:  1025.670 W
+-------------
+type:   torque
+index:  5
+torque: 17.423 Nm
+-------------
+type:   torque
+index:  37
+torque: 20.187 Nm
+-------------
+type:   torque
+index:  15
+torque: 22.820 Nm
+-------------
+type:   power
+index:  21
+power:  718.818 W
+-------------
+type:   ws
+index:  22
+ws:     30.311 rad/s
+-------------
+type:   torque
+index:  21
+torque: 24.772 Nm
+-------------
+type:   power
+index:  2
+power:  43.555 W
+-------------
+type:   torque
+index:  43
+torque: 12.802 Nm
+-------------
+type:   power
+index:  25
+power:  873.905 W
+-------------
+type:   torque
+index:  1
+torque: 15.126 Nm
+-------------
+type:   ws
+index:  33
+ws:     45.467 rad/s
+-------------
+type:   torque
+index:  25
+torque: 25.311 Nm
+-------------
+type:   ws
+index:  27
+ws:     37.200 rad/s
+-------------
+type:   ws
+index:  18
+ws:     24.800 rad/s
+-------------
+type:   torque
+index:  11
+torque: 20.917 Nm
+-------------
+type:   torque
+index:  18
+torque: 24.003 Nm
+-------------
+type:   ws
+index:  13
+ws:     17.911 rad/s
+-------------
+type:   power
+index:  8
+power:  212.322 W
+-------------
+type:   ws
+index:  1
+ws:     1.378 rad/s
+-------------
+type:   ws
+index:  29
+ws:     39.956 rad/s
+-------------
+type:   torque
+index:  33
+torque: 23.084 Nm
+-------------
+type:   power
+index:  20
+power:  676.554 W
+-------------
+type:   torque
+index:  22
+torque: 25.128 Nm
+-------------
+type:   torque
+index:  4
+torque: 17.000 Nm
+-------------
+type:   power
+index:  37
+power:  1029.181 W
+-------------
+type:   ws
+index:  8
+ws:     11.022 rad/s
+-------------
+type:   torque
+index:  35
+torque: 21.695 Nm
+-------------
+type:   power
+index:  32
+power:  1044.316 W
+-------------
+type:   power
+index:  6
+power:  150.222 W
+-------------
+type:   torque
+index:  34
+torque: 22.404 Nm
+-------------
+type:   torque
+index:  19
+torque: 24.468 Nm
+-------------
+type:   ws
+index:  25
+ws:     34.444 rad/s
+-------------
+type:   ws
+index:  11
+ws:     15.156 rad/s
+-------------
+type:   ws
+index:  7
+ws:     9.644 rad/s
+-------------
+type:   torque
+index:  41
+torque: 15.606 Nm
+-------------
+type:   ws
+index:  26
+ws:     35.822 rad/s
+-------------
+type:   ws
+index:  5
+ws:     6.889 rad/s
+-------------
+type:   ws
+index:  40
+ws:     55.111 rad/s
+-------------
+type:   torque
+index:  45
+torque: 9.622 Nm
+-------------
+type:   ws
+index:  12
+ws:     16.533 rad/s
+-------------
+type:   torque
+index:  14
+torque: 22.374 Nm
+-------------
+type:   torque
+index:  27
+torque: 25.146 Nm
+-------------
+type:   torque
+index:  12
+torque: 21.518 Nm
+-------------
+type:   power
+index:  15
+power:  470.776 W
+-------------
+type:   power
+index:  34
+power:  1053.013 W
+-------------
+type:   ws
+index:  28
+ws:     38.578 rad/s
+-------------
+type:   torque
+index:  31
+torque: 24.072 Nm
+-------------
+type:   ws
+index:  19
+ws:     26.178 rad/s
+-------------
+type:   power
+index:  7
+power:  179.435 W
+-------------
+type:   power
+index:  12
+power:  354.305 W
+-------------
+type:   torque
+index:  7
+torque: 18.621 Nm
+-------------
+type:   power
+index:  23
+power:  795.519 W
+-------------
+type:   torque
+index:  29
+torque: 24.868 Nm
+-------------
+type:   power
+index:  10
+power:  281.342 W
+-------------
+type:   power
+index:  26
+power:  901.924 W
+-------------
+type:   power
+index:  40
+power:  930.032 W
+-------------
+type:   torque
+index:  36
+torque: 20.933 Nm
+-------------
+type:   torque
+index:  3
+torque: 16.401 Nm
+-------------
+type:   torque
+index:  0
+torque: 14.684 Nm
+-------------
+type:   power
+index:  33
+power:  1052.250 W
+-------------
+type:   ws
+index:  14
+ws:     19.289 rad/s
+-------------
+type:   ws
+index:  10
+ws:     13.778 rad/s
+-------------
+type:   power
+index:  17
+power:  554.674 W
+-------------
+type:   ws
+index:  24
+ws:     33.067 rad/s
+-------------
+type:   torque
+index:  17
+torque: 23.751 Nm
+-------------
+type:   power
+index:  22
+power:  761.422 W
+-------------
+type:   torque
+index:  9
+torque: 19.751 Nm
+-------------
+type:   ws
+index:  44
+ws:     60.622 rad/s
+-------------
+type:   power
+index:  14
+power:  429.985 W
+-------------
+type:   torque
+index:  24
+torque: 25.019 Nm
+-------------
+type:   ws
+index:  23
+ws:     31.689 rad/s
+-------------
+type:   ws
+index:  15
+ws:     20.667 rad/s
+-------------
+type:   torque
+index:  8
+torque: 19.269 Nm
+-------------
+type:   ws
+index:  31
+ws:     42.711 rad/s
+-------------
+type:   ws
+index:  37
+ws:     50.978 rad/s
+-------------
+type:   ws
+index:  45
+ws:     62.000 rad/s
+-------------
+type:   torque
+index:  26
+torque: 25.105 Nm
+-------------
+type:   torque
+index:  38
+torque: 19.234 Nm
+-------------
+type:   ws
+index:  38
+ws:     52.356 rad/s
+-------------
+type:   power
+index:  16
+power:  510.049 W
+-------------
+type:   power
+index:  1
+power:  20.868 W
+-------------
+type:   power
+index:  29
+power:  989.865 W
+-------------
+type:   power
+index:  5
+power:  120.414 W
+-------------
+type:   ws
+index:  30
+ws:     41.333 rad/s
+-------------
+type:   power
+index:  42
+power:  823.951 W
+-------------
+type:   torque
+index:  6
+torque: 18.181 Nm
+-------------
+type:   torque
+index:  2
+torque: 15.832 Nm
+-------------
+type:   power
+index:  28
+power:  967.416 W
+-------------
+type:   power
+index:  18
+power:  593.107 W
+-------------
+type:   torque
+index:  13
+torque: 21.886 Nm
+-------------
+type:   ws
+index:  41
+ws:     56.489 rad/s
+-------------
+type:   torque
+index:  30
+torque: 24.403 Nm
+-------------
+type:   power
+index:  3
+power:  67.813 W
+-------------
+type:   power
+index:  4
+power:  93.843 W
+-------------
+type:   ws
+index:  35
+ws:     48.222 rad/s
+-------------
+type:   ws
+index:  21
+ws:     28.933 rad/s
+-------------
+type:   power
+index:  19
+power:  638.291 W
+-------------
+type:   ws
+index:  0
+ws:     0.000 rad/s
+-------------
+type:   ws
+index:  20
+ws:     27.556 rad/s
+-------------
+type:   power
+index:  36
+power:  1038.655 W
+-------------
+type:   power
+index:  11
+power:  317.246 W
+-------------
+type:   torque
+index:  16
+torque: 23.111 Nm
+-------------
+type:   power
+index:  24
+power:  830.873 W
+-------------
+type:   power
+index:  38
+power:  1002.844 W
+-------------
+type:   ws
+index:  39
+ws:     53.733 rad/s
+-------------
+type:   torque
+index:  44
+torque: 11.361 Nm
+-------------
+type:   power
+index:  9
+power:  245.996 W
+-------------
+type:   ws
+index:  3
+ws:     4.133 rad/s
+-------------
+type:   power
+index:  39
+power:  973.382 W
+-------------
+type:   ws
+index:  16
+ws:     22.044 rad/s
+-------------
+type:   power
+index:  0
+power:  0.000 W
+-------------
+type:   ws
+index:  4
+ws:     5.511 rad/s
+-------------
+type:   ws
+index:  2
+ws:     2.756 rad/s
+-------------
+type:   power
+index:  35
+power:  1048.704 W
+-------------
+type:   torque
+index:  39
+torque: 18.164 Nm
+-------------
+type:   torque
+index:  20
+torque: 24.493 Nm
+-------------
+type:   torque
+index:  42
+torque: 14.252 Nm
+-------------
+type:   ws
+index:  9
+ws:     12.400 rad/s
+-------------
+type:   power
+index:  44
+power:  686.134 W
